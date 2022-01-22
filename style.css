@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(#000046, #1cb5e0);
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+header {
+  text-align: center;
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.count-down-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.count-down-div {
+  display: flex;
+}
+.common {
+  margin: 0 40px;
+}
+img {
+  height: 30vh;
+}
